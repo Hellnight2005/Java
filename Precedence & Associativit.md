@@ -71,4 +71,4 @@ Non-associative operators do not have an associativity defined, meaning they can
 Understanding operator associativity is important for correctly interpreting expressions and avoiding unexpected behavior in Java programs.
 
 
-![Precedence & Associativity in Java](images.png)
+[Precedence & Associativity in Java](images.png)
