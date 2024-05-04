@@ -14,7 +14,7 @@ Prefix increment (`++variable`) first increments the value of the variable and t
 int x = 5;
 int result = ++x; // Increment x first, then assign to result
 // Now, x = 6 and result = 6
-
+```
 # Increment/Decrement Operators in Java
 
 This Markdown file explains the usage of increment and decrement operators in Java.
