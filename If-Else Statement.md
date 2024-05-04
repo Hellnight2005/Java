@@ -9,6 +9,7 @@ if (condition) {
 } else {
     // Code block to execute if the condition is false
 }
+```
 
 ### Example
 Consider the following example:
@@ -42,7 +43,7 @@ if (condition1) {
 } else {
     // Code block to execute if condition1 is false
 }
-
+```
 
 
 ### Example
