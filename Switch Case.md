@@ -18,6 +18,7 @@ switch (expression) {
     default:
         // Code block to execute if expression does not match any case
 }
+```
 - `expression` is the variable or value to be evaluated.
 - `case value1`, `case value2`, etc., are the possible values of the expression.
 - The `break` statement is used to exit the switch case block once a matching case is found.
