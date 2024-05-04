@@ -67,6 +67,8 @@ Right-associative operators are evaluated from right to left. The only right-ass
 
 Non-associative operators do not have an associativity defined, meaning they cannot be chained together without parentheses. The equality operators (`==`, `!=`) and the relational operators (`<`, `<=`, `>`, `>=`) are non-associative.
 
+
 Understanding operator associativity is important for correctly interpreting expressions and avoiding unexpected behavior in Java programs.
 
 
+![Precedence & Associativity in Java](images.png)
