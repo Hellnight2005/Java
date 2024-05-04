@@ -46,11 +46,12 @@ Operator precedence determines the order in which operators are evaluated in an 
 14. **Assignment Operator**:
     - `=`, `+=`, `-=` etc.
 
+
 ## Example
 
 ```java
 int result = 10 + 5 * 2; // Evaluates as 10 + (5 * 2) = 20
-
+```
 # Operator Associativity in Java
 
 Operator associativity determines the order in which operators of the same precedence are evaluated in an expression. In Java, operators can be left-associative, right-associative, or non-associative.
