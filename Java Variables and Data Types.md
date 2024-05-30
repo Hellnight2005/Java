@@ -17,7 +17,7 @@ variableName = value;
 
 // Combined declaration and initialization
 dataType variableName = value;
-
+```
 # Java Data Types
 
 This Markdown file lists the data types available in Java.
