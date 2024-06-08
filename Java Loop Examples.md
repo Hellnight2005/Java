@@ -32,5 +32,19 @@ public class Loops {
         }
         System.out.println("\nThank you");
     }
+```
+##Java Loop Challenge: Identifying Even and Odd Numbers
+
+## OutPut
+```java
+ for (int j=0; j<=100; j++){
+                if(j%2 == 0){
+                    System.out.println("This is even number" + j);
+                }else {
+                    System.out.println("This is odd number" + j);
+                }
+            }
+```
+
 }
 ```
