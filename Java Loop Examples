@@ -31,6 +31,12 @@ public class Loops {
             System.out.println(i);
         }
 
+
+
+
+
+
         System.out.println("\nThank you");
     }
 }
+```
